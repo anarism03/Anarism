@@ -1,4 +1,4 @@
-- Hi 👋, I'm Anar Ismayilzada!
+## Hi 👋, I'm Anar Ismayilzada!
 I'm a FrontEnd Specialist with hands-on experience in designing and developing dynamic. While my focus is primarily on Front End, I've also explored the capabilities of other main programming languages.
 🌱 I’m currently learning Front End Developer
 - **Languages:** JavaS,C++,Phyton,SQL
