@@ -4,17 +4,13 @@ I'm a FrontEnd Specialist with hands-on experience in designing and developing d
 - **Languages:** JavaS,C++,Phyton,SQL
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Frameworks:** React
-- **Database:** Database Systems
-## 📫 Let's Connect
-
+- **Database:** Sql,Microsoft Excel
+📫 ## How to reach me:
+- ismayilzadeanar310@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anarismayilzada
 - Instagram: https://www.instagram.com/ismayilz4da?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
 - Contact:+994504496536
-- 
 💬 Ask me about Front End & ReactJS.
-
-📫 How to reach me ismayilzadeanar310@gmail.com
-
-
 Languages and Tools:
  git javascript  python typescript
+
